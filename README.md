@@ -1,7 +1,7 @@
 # ProjekAkhirASD4
 SISTEM REGISTRASI SEMINAR DAN WORKSHOP FAKULTAS TEKNIK
 
-Timothy Darren 		   	    (25/55606/TK/62707)
+Timothy Darren 		   	    (25/556068/TK/62707)
 Jundi Erlangga 			      (25/561570/TK/63456)
 Nida Nur Hafizhah 		    (25/562156/TK/63542)
 Nayaka Tsaqif Ramadhan S.	(25/557605/TK/62967)
